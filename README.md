@@ -6,7 +6,7 @@ DockerHub: https://hub.docker.com/r/joestldr/srelay
 
 GitHub: https://github.com/joes-tldr/dockerized-srelay
 
-## TLDR; Sample usage: UDP proxy over TCP
+## TLDR; Sample usage: SOCKS Proxy
 
 ```bash
 docker run \
